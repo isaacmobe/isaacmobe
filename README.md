@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isaacmobe
+- 👋 Hi, I’m Isaac Mobe
 - 👀 I’m interested in Front and backend web development and UI/UX design and art.
 - 🌱 Bachelor of Business In Information Technology.
 - 💞️ looking to collaborate on Graphic design, Art and Web dev projects.
