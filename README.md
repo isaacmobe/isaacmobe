@@ -91,7 +91,7 @@ Beyond code, I explore **3D modelling**, **Unreal Engine**, **digital illustrati
 
 <img src="https://github-readme-stats.vercel.app/api?username=isaacmobe&show_icons=true&theme=dark&title_color=D4A017&icon_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="Isaac's GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacmobe&theme=dark&background=0d1117&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&border=D4A017" width="48%" alt="Isaac's Streak"/>
+<img src="https://streak-stats.demolab.com/?user=isaacmobe&theme=dark&background=0d1117&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&border=D4A017" width="48%" alt="Isaac's Streak"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmobe&layout=compact&theme=dark&title_color=D4A017&text_color=ffffff&bg_color=0d1117&border_color=D4A017&hide_border=false&langs_count=8" width="48%" alt="Top Languages"/>
 
@@ -110,6 +110,7 @@ Beyond code, I explore **3D modelling**, **Unreal Engine**, **digital illustrati
 | [**🏥 CounselWay**](https://github.com/isaacmobe/CounselWay) | Web-based counselling platform with dynamic front-end | `HTML` `CSS` `JavaScript` |
 | [**🐔 pofams**](https://github.com/isaacmobe/pofams) | Poultry farm management system | `PHP` `Laravel` |
 | [**🤖 Q-LEARNING**](https://github.com/isaacmobe/Q-LEARNING) | Rat-maze Q-learning algorithm — essay research implementation | `Python` |
+| [**🛒 ecom-in-laravel**](https://github.com/isaacmobe/ecom-in-laravel) | E-commerce web application built with Laravel | `PHP` `Laravel` `HTML` |
 
 ---
 
