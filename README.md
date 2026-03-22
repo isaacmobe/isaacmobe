@@ -24,14 +24,14 @@
 <!-- ── ABOUT ME ─────────────────────────────────────────────── -->
 ## 👋 Hey, I'm Isaac Mobe
 
-> *"Redefining Brands at the Heart of Africa's Silicon Savannah."*
+> *"Manipulating pixels to bring your brand to life."*
 
 I'm a **First-Class BBIT graduate** and **freelance Full-Stack Developer** based in **Nairobi, Kenya** — working globally.
 I build interactive, visually-rich digital experiences from end to end: clean front-ends, scalable back-ends, and sharp brand identities.
 
 Beyond code, I explore **3D modelling**, **Unreal Engine**, **digital illustration**, and **game design** — drawing on photography and art to strengthen visual storytelling.
 
-- 🏗️ Currently building: **Mobe Studio** — a full-service creative & dev studio
+- 🏗️ Currently building: **MY OWN START-UP** — still in dev
 - 🎓 First Class Honours — Bachelor of Business IT @ JKUAT (2025)
 - 🌍 From Kenya — Available for remote & global collaborations
 - 📅 Schedule a call: [cal.com/isaac-mobe](https://cal.com/isaac-mobe/30min)
@@ -117,7 +117,7 @@ Beyond code, I explore **3D modelling**, **Unreal Engine**, **digital illustrati
 ## 💼 Experience
 
 ```
-🖥️  Freelance Full-Stack Developer     Mar 2021 – Present      Remote
+🖥️  Freelance Full-Stack Developer     Mar 2021 – Present      Hybrid
 🏛️  Ministry of Education (Senior ICT) Sep 2024 – Nov 2024     Nairobi, KE
 🏛️  ICTA (ICT Attachee)               Nov 2022 – Jan 2023     Nairobi, KE
 ```
@@ -144,6 +144,6 @@ Beyond code, I explore **3D modelling**, **Unreal Engine**, **digital illustrati
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A017,1a1a1a&height=100&section=footer" width="100%"/>
 
-*Nairobi, Kenya — Working Globally · © Isaac Mobe 2025*
+*Nairobi, Kenya — Working Globally · © Isaac Mobe 2026*
 
 </div>
