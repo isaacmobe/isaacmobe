@@ -5,8 +5,8 @@
       .box { fill: #0D1117; stroke: #30363D; stroke-width: 2; rx: 6; } /* UI Panels */
       .header-box { fill: #161B22; stroke: #30363D; stroke-width: 2; rx: 6; }
       
-      /* Syntax Highlighting */
-      text { font-family: 'Fira Code', 'Courier New', Courier, monospace; font-size: 14px; }
+      /* Syntax Highlighting updated to prioritize Cascadia Mono */
+      text { font-family: 'Cascadia Mono', 'Fira Code', 'Courier New', Courier, monospace; font-size: 14px; }
       .txt-gray   { fill: #8B949E; } /* Comments / Dim text */
       .txt-white  { fill: #C9D1D9; } /* Standard output */
       .txt-blue   { fill: #79C0FF; font-weight: bold; } /* Keys / Commands */
@@ -77,7 +77,7 @@
   </g>
 
   <rect x="510" y="450" width="470" height="330" class="box" />
-  <g transform="translate(530, 480)">
+  <g transform="translate(530, 470)">
     <text y="0" class="txt-gray"># gh api --telemetry</text>
     
     <text y="35" class="txt-white">COMMITS       [<tspan class="txt-gold">████████</tspan><tspan class="txt-gray">░░</tspan>] <tspan class="txt-blue">73</tspan></text>
@@ -85,12 +85,12 @@
     <text y="85" class="txt-white">STREAK_DAYS   [<tspan class="txt-gold">█</tspan><tspan class="txt-gray">░░░░░░░░░</tspan>] <tspan class="txt-blue">03</tspan></text>
     <text y="110" class="txt-white">ISSUES        [<tspan class="txt-gray">░░░░░░░░░░</tspan>] <tspan class="txt-blue">00</tspan></text>
 
-    <text y="160" class="txt-gray">// LANGUAGE PARSER LOAD</text>
-    <text y="190" class="txt-purple">HTML5 <tspan class="txt-white">[</tspan><tspan class="txt-green">█████</tspan><tspan class="txt-gray">░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">54.7%</tspan></text>
-    <text y="215" class="txt-purple">CSS3  <tspan class="txt-white">[</tspan><tspan class="txt-green">██</tspan><tspan class="txt-gray">░░░░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">25.8%</tspan></text>
-    <text y="240" class="txt-purple">JS    <tspan class="txt-white">[</tspan><tspan class="txt-green">█</tspan><tspan class="txt-gray">░░░░░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">10.0%</tspan></text>
-    <text y="265" class="txt-purple">PHP   <tspan class="txt-white">[</tspan><tspan class="txt-green">█</tspan><tspan class="txt-gray">░░░░░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">06.1%</tspan></text>
+    <text y="150" class="txt-gray">// LANGUAGE PARSER LOAD</text>
+    <text y="180" class="txt-purple">HTML5 <tspan class="txt-white">[</tspan><tspan class="txt-green">█████</tspan><tspan class="txt-gray">░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">54.7%</tspan></text>
+    <text y="205" class="txt-purple">CSS3  <tspan class="txt-white">[</tspan><tspan class="txt-green">██</tspan><tspan class="txt-gray">░░░░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">25.8%</tspan></text>
+    <text y="230" class="txt-purple">JS    <tspan class="txt-white">[</tspan><tspan class="txt-green">█</tspan><tspan class="txt-gray">░░░░░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">10.0%</tspan></text>
+    <text y="255" class="txt-purple">PHP   <tspan class="txt-white">[</tspan><tspan class="txt-green">█</tspan><tspan class="txt-gray">░░░░░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">06.1%</tspan></text>
 
-    <text y="305" class="txt-green">sys.scan.complete() _</text>
+    <text y="290" class="txt-green">sys.scan.complete() _</text>
   </g>
 </svg>
