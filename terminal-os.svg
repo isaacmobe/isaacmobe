@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; } /* Deep Dark Background */
+      .box { fill: #0D1117; stroke: #30363D; stroke-width: 2; rx: 6; } /* UI Panels */
+      .header-box { fill: #161B22; stroke: #30363D; stroke-width: 2; rx: 6; }
+      
+      /* Syntax Highlighting */
+      text { font-family: 'Fira Code', 'Courier New', Courier, monospace; font-size: 14px; }
+      .txt-gray   { fill: #8B949E; } /* Comments / Dim text */
+      .txt-white  { fill: #C9D1D9; } /* Standard output */
+      .txt-blue   { fill: #79C0FF; font-weight: bold; } /* Keys / Commands */
+      .txt-green  { fill: #7EE787; } /* Strings / Success */
+      .txt-gold   { fill: #E3B341; font-weight: bold; } /* Accents / Numbers */
+      .txt-purple { fill: #D2A8FF; } /* Booleans / System */
+      .txt-red    { fill: #FF7B72; } /* Errors / Critical */
+    </style>
+  </defs>
+
+  <rect width="1000" height="800" class="bg" />
+
+  <rect x="20" y="20" width="960" height="60" class="header-box" />
+  <circle cx="50" cy="50" r="8" fill="#FF5F56" />
+  <circle cx="75" cy="50" r="8" fill="#FFBD2E" />
+  <circle cx="100" cy="50" r="8" fill="#27C93F" />
+  <text x="130" y="55" class="txt-gray">isaac_mobe@nairobi: ~</text>
+  <text x="800" y="55" class="txt-blue">SYS.UPTIME:</text>
+  <text x="895" y="55" class="txt-green">99.9%</text>
+
+  <rect x="20" y="100" width="470" height="680" class="box" />
+  <g transform="translate(40, 130)">
+    <text y="0" class="txt-gray"># ./fetch_user_profile.sh</text>
+    <text y="25" class="txt-white">const <tspan class="txt-blue">Developer</tspan> = {</text>
+    <text y="50" class="txt-blue">  name:    <tspan class="txt-green">"Isaac Mobe"</tspan>,</text>
+    <text y="75" class="txt-blue">  role:    <tspan class="txt-green">"Full-Stack Dev"</tspan>,</text>
+    <text y="100" class="txt-blue">  specs:   <tspan class="txt-white">[</tspan><tspan class="txt-green">"Brand UI"</tspan><tspan class="txt-white">, </tspan><tspan class="txt-green">"Game Design"</tspan><tspan class="txt-white">]</tspan>,</text>
+    <text y="125" class="txt-blue">  base:    <tspan class="txt-green">"Nairobi, KE"</tspan>,</text>
+    <text y="150" class="txt-blue">  status:  <tspan class="txt-gold">"Building Startup"</tspan></text>
+    <text y="175" class="txt-white">};</text>
+
+    <text y="230" class="txt-gray"># credentials --list</text>
+    <text y="255" class="txt-blue">[2025] <tspan class="txt-white">1ST CLASS HONOURS BBIT </tspan><tspan class="txt-gray">@ JKUAT</tspan></text>
+    <text y="280" class="txt-blue">[2021] <tspan class="txt-white">FREELANCE DEV          </tspan><tspan class="txt-green">(ACTIVE)</tspan></text>
+    <text y="305" class="txt-blue">[2024] <tspan class="txt-white">SENIOR ICT             </tspan><tspan class="txt-gray">@ MIN. EDU</tspan></text>
+
+    <text y="360" class="txt-gray"># sys.hardware.stack</text>
+    
+    <rect x="0" y="375" width="430" height="260" class="box" stroke-dasharray="4" />
+    <text x="20" y="410" class="txt-purple">FRONT_END <tspan class="txt-white">=> [</tspan></text>
+    <text x="40" y="435" class="txt-gold">REACT, HTML5, CSS3, SCSS,</text>
+    <text x="40" y="460" class="txt-gold">TAILWIND, JS, FRAMER, SPLINE</text>
+    <text x="20" y="485" class="txt-white">]</text>
+
+    <text x="20" y="525" class="txt-purple">BACK_END <tspan class="txt-white">==> [</tspan></text>
+    <text x="40" y="550" class="txt-green">NODE.JS, PHP, LARAVEL,</text>
+    <text x="40" y="575" class="txt-green">MONGODB, REST_API</text>
+    <text x="20" y="600" class="txt-white">]</text>
+  </g>
+
+  <rect x="510" y="100" width="470" height="330" class="box" />
+  <g transform="translate(530, 130)">
+    <text y="0" class="txt-gray"># ls -la /mounted_projects</text>
+    <text y="25" class="txt-white">drwxr-xr-x <tspan class="txt-blue">PORTFOLIO.EXE       </tspan><tspan class="txt-green">ONL</tspan></text>
+    <text y="50" class="txt-gray">  └─ Interactive personal hub &amp; 3D</text>
+
+    <text y="85" class="txt-white">drwxr-xr-x <tspan class="txt-blue">REACT_PORTFOLIO.BIN </tspan><tspan class="txt-green">ONL</tspan></text>
+    <text y="110" class="txt-gray">  └─ Component-based React UI</text>
+
+    <text y="145" class="txt-white">drwxr-xr-x <tspan class="txt-blue">COUNSELWAY.APP      </tspan><tspan class="txt-green">ONL</tspan></text>
+    <text y="170" class="txt-gray">  └─ Dynamic counselling platform</text>
+
+    <text y="205" class="txt-white">drwxr-xr-x <tspan class="txt-blue">POFAMS.DB           </tspan><tspan class="txt-green">ONL</tspan></text>
+    <text y="230" class="txt-gray">  └─ Poultry farm management</text>
+
+    <text y="265" class="txt-white">drwxr-xr-x <tspan class="txt-blue">Q-LEARNING.PY       </tspan><tspan class="txt-green">ONL</tspan></text>
+    <text y="290" class="txt-gray">  └─ Rat-maze algorithm research</text>
+  </g>
+
+  <rect x="510" y="450" width="470" height="330" class="box" />
+  <g transform="translate(530, 480)">
+    <text y="0" class="txt-gray"># gh api --telemetry</text>
+    
+    <text y="35" class="txt-white">COMMITS       [<tspan class="txt-gold">████████</tspan><tspan class="txt-gray">░░</tspan>] <tspan class="txt-blue">73</tspan></text>
+    <text y="60" class="txt-white">CONTRIBUTIONS [<tspan class="txt-gold">██████████</tspan>] <tspan class="txt-blue">93</tspan></text>
+    <text y="85" class="txt-white">STREAK_DAYS   [<tspan class="txt-gold">█</tspan><tspan class="txt-gray">░░░░░░░░░</tspan>] <tspan class="txt-blue">03</tspan></text>
+    <text y="110" class="txt-white">ISSUES        [<tspan class="txt-gray">░░░░░░░░░░</tspan>] <tspan class="txt-blue">00</tspan></text>
+
+    <text y="160" class="txt-gray">// LANGUAGE PARSER LOAD</text>
+    <text y="190" class="txt-purple">HTML5 <tspan class="txt-white">[</tspan><tspan class="txt-green">█████</tspan><tspan class="txt-gray">░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">54.7%</tspan></text>
+    <text y="215" class="txt-purple">CSS3  <tspan class="txt-white">[</tspan><tspan class="txt-green">██</tspan><tspan class="txt-gray">░░░░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">25.8%</tspan></text>
+    <text y="240" class="txt-purple">JS    <tspan class="txt-white">[</tspan><tspan class="txt-green">█</tspan><tspan class="txt-gray">░░░░░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">10.0%</tspan></text>
+    <text y="265" class="txt-purple">PHP   <tspan class="txt-white">[</tspan><tspan class="txt-green">█</tspan><tspan class="txt-gray">░░░░░░░░░</tspan><tspan class="txt-white">] </tspan><tspan class="txt-gold">06.1%</tspan></text>
+
+    <text y="305" class="txt-green">sys.scan.complete() _</text>
+  </g>
+</svg>
